@@ -1,4 +1,4 @@
-# Java Click-A-Dot Game
+# Java Click-a-Dot Game
 Java Swing reaction game with clickable moving targets, score tracking, size/speed controls, and save-score functionality.
 
 This is a Java Swing reaction game where the player clicks randomly appearing dots before they disappear. The game tracks the player’s score, allows the target size and speed to be adjusted with sliders, and includes a menu option for saving scores to a file.
